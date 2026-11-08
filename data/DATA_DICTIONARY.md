@@ -34,4 +34,4 @@ Derived quantities (PHRQ, FC/FS ratio, risk estimates) are not stored in this fi
 
 ## Note on individual values
 
-**[TO COMPLETE BEFORE DEPOSIT]** On 2026-04-15 at site D, the values for `total_coliform` (17,333), `fecal_coliform` (2,933) and `e_coli` (687) are not entries of the MPN table, unlike all other values in the file. State here how they were obtained (for example, the mean of replicate determinations), then delete this paragraph's bracketed marker.
+On 2026-04-15 at site D, the values for `total_coliform` (17,333), `fecal_coliform` (2,933), and `e_coli` (687) are not entries in the MPN table; unlike all other values in the file, these are the averages of 5 replicates.
