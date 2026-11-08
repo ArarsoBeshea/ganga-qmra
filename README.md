@@ -53,7 +53,7 @@ The scoreboard at the end of the notebook compares 24 headline quantities (for e
 
 ## What the notebook does not reproduce
 
-* **Fig. 1** (study-area map, which contains third-party photographs and satellite imagery) and **Fig. S1** (laboratory flowchart): see the article and its Supplementary Information.
+* **Fig. 1** (study-area map) and **Fig. S1** (laboratory flowchart): see the article and its Supplementary Information.
 * **Eight of the twelve dose-response alternatives of Table 2.** The primary set and four alternatives are reproduced (Step 11). The *Campylobacter* pair with its own illness model, the approximate beta-Poisson form, the disaggregated and aggregation-adjusted norovirus models, and the three adenovirus variants and the combined set need model code that is not part of this notebook.
 * **Digit-for-digit agreement.** The calibration of kappa uses 1,000,000 Monte Carlo draws here (400,000 in the article) to reduce simulation noise. Results agree with the article within simulation error, not to the last digit. All random seeds are fixed (`SEED = 20261026`).
 
