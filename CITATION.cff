@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use these data or this code, please cite them using the metadata below and the associated article."
+type: software
+title: "Data and code for: Linking fecal indicator limits to gastrointestinal illness risk for ritual bathing in the Ganga at Varanasi, India"
+version: "1.0.0"
+date-released: "2026-11-05"
+license: CC-BY-4.0
+authors:
+  - family-names: Tekile
+    given-names: Ararso Beshea
+    affiliation: "Department of Civil Engineering, Indian Institute of Technology (Banaras Hindu University), Varanasi, India"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # add your ORCID iD
+  - family-names: Singh
+    given-names: Prabhat Kumar
+    affiliation: "Department of Civil Engineering, Indian Institute of Technology (Banaras Hindu University), Varanasi, India"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # add your ORCID iD
+abstract: >-
+  Fecal indicator counts (total coliforms, fecal coliforms, Escherichia coli, fecal streptococci and enterococci) in 44 water
+  samples from four bathing sites at Varanasi, India (June 2025 to May 2026), and a self-contained Python notebook that
+  recomputes the Public Health Risk Quotient (PHRQ), the quantitative microbial risk model for gastrointestinal illness per
+  bathing event, the sensitivity analyses and the figures and tables of the associated article.
+keywords:
+  - Ganga River
+  - bathing water
+  - fecal indicator bacteria
+  - quantitative microbial risk assessment
+  - Public Health Risk Quotient
+  - gastrointestinal illness
+  - India
+repository-code: "https://github.com/ArarsoBeshea/ganga-qmra"
+# After the first Zenodo release, add the DOI it was given:
+# doi: "10.5281/zenodo.XXXXXXX"

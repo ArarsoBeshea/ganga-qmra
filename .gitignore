@@ -1,0 +1,10 @@
+# files written when the notebook is run
+outputs/
+notebooks/outputs/
+ganga_outputs.zip
+notebooks/ganga_outputs.zip
+executed/
+# editor / system files
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
